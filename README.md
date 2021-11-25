@@ -3,16 +3,17 @@
 
 <p><em>Currently working as a DevOPS Intern at <a href="https://shurjomukhi.com.bd/">ShurjoMukhi Limited</a>. Completed my major in Computer Science (October'21) from <a href="https://www.bracu.ac.bd/">BRAC University</a>.</br>
 </em></p>
+
 <p align="center">
    <table>
       <tr>
        <th>Profile stats  </th>
        <th>Language Contribution</th>
-     </tr>
+      </tr>
       <tr>
        <td><img alt="Kibria10 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Kibria10&show_icons=true&theme=dark"> </td>
        <td><img alt="Kibria10 :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibria10&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
-     </tr>
+      </tr>
    </table>
 </p>
 
