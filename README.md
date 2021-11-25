@@ -1,13 +1,9 @@
-### HELLO, THIS IS MAHARAB KIBRIA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello, This is Maharab Kibria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <p><em>Currently working as a DevoPS Intern at ShurjoMukhi Limited. Completed my undergraduate from <a href="https://www.bracu.ac.bd/">BRAC University</a>, and majored in Computer Science.</br>
 </em></p>
-
-As far as my credentials I'm currently a MERN stack developer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
-
 <h2 align="center">Detail of my current knowledge</h2>
-
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
 <span><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=MongoDB" alt="MongoDB"/></span>
@@ -42,7 +38,7 @@ As far as my credentials I'm currently a MERN stack developer, trying my best to
 <a href="https://www.linkedin.com/in/junak-kibria/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maharab Kibria-blue?style=flat&logo=linkedin"></a>
 </p>
   
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Devorein :: Wakatime Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kibria10&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Kibria10 :: Wakatime Stats" /></p>
 
 <p align="center">
    <table>
