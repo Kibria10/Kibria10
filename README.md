@@ -1,17 +1,13 @@
-### Hi there, Safwan here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### HELLO, THIS IS MAHARAB KIBRIA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h2 align="center">A little about me</h2>
 
-<p><em>Currently working as a Developer Intern at Atlas Authority LLC, Backend/DevOps Engineer at Stonks LLC. A second year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
+<p><em>Currently working as a DevoPS Intern at ShurjoMukhi Limited. Completed my undergraduate from <a href="https://www.bracu.ac.bd/">BRAC University</a>, and majored in Computer Science.</br>
 </em></p>
 
-As far as my credentials I'm currently a "fullstack" web(P/MERNG), mobile(React Native) and blockchain(Ethereum+Solidity+Truffle) developer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
+As far as my credentials I'm currently a MERN stack developer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
 
 - 🔭 I’m currently working on ... [Notion Renderer](https://github.com/Devorein/notion-renderer)
-- 🌱 I’m currently learning ... Redis, Docker, React Native, Go and Solidity from top to bottom without any gaps
-- 👯 I’m looking to collaborate on ... Any ambitious P/MERN/G, React Native or Blockchain Project
-- 💬 Ask me about ...Web and Mobile Development, Fitness, UFC, MMA, Solo leveling and Liverpool FC 
-- ⚡ Fun fact: ... I'm a proud AroAce (Aromantic & Asexual) 🟢⚫🟣 ;D
+- 🌱 I’m currently learning ... Redis, Docker, Kubernetes, Go and TypeScript from top to bottom without any gaps
 
 <h2 align="center">Detail of my current knowledge</h2>
 
