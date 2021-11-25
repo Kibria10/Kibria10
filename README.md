@@ -15,22 +15,15 @@ As far as my credentials I'm currently a MERN stack developer, trying my best to
 <span><img src="https://img.shields.io/badge/-Redis-black?style=flat-square&amp;logo=Redis" alt="Redis"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
-<span><img src="https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&amp;logo=Apollo%20GraphQL" alt="Apollo GraphQL"/></span>
+<span><img src="https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&amp;logo=Spring_Boot" alt="Spring_Boot"/></span>
 <span><img src="https://img.shields.io/badge/-Express-black?style=flat-square&amp;logo=Express" alt="Express"/></span>
-<span><img src="https://img.shields.io/badge/-Jest-black?style=flat-square&amp;logo=Jest" alt="Jest"/></span>
-<span><img src="https://img.shields.io/badge/-Material%20UI-black?style=flat-square&amp;logo=Material%20UI" alt="Material UI"/></span>
-<span><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&amp;logo=Next.js" alt="Next.js"/></span>
-<span><img src="https://img.shields.io/badge/-React%20Native-black?style=flat-square&amp;logo=React%20Native" alt="React Native"/></span>
-<span><img src="https://img.shields.io/badge/-Storybook-black?style=flat-square&amp;logo=Storybook" alt="Storybook"/></span>
-<span><img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&amp;logo=Vue.js" alt="Vue.js"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
 <span><img src="https://img.shields.io/badge/-Bash-black?style=flat-square&amp;logo=Bash" alt="Bash"/></span>
-<span><img src="https://img.shields.io/badge/-Go-black?style=flat-square&amp;logo=Go" alt="Go"/></span>
+<span><img src="https://img.shields.io/badge/-Java-black?style=flat-square&amp;logo=Java" alt="JAVA"/></span>
 <span><img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python" alt="Python"/></span>
 <span><img src="https://img.shields.io/badge/-SQL-black?style=flat-square&amp;logo=SQL" alt="SQL"/></span>
 <span><img src="https://img.shields.io/badge/-Sass-black?style=flat-square&amp;logo=Sass" alt="Sass"/></span>
-<span><img src="https://img.shields.io/badge/-Solidity-black?style=flat-square&amp;logo=Solidity" alt="Solidity"/></span>
 <span><img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&amp;logo=Typescript" alt="Typescript"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Library-505558"/></h3>
