@@ -3,7 +3,20 @@
 
 <p><em>Currently working as a DevoPS Intern at ShurjoMukhi Limited. Completed my undergraduate from <a href="https://www.bracu.ac.bd/">BRAC University</a>, and majored in Computer Science.</br>
 </em></p>
-<h2 align="center">Detail of my current knowledge</h2>
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Kibria10 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Kibria10&show_icons=true&theme=dark"> </td>
+       <td><img alt="Kibria10 :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibria10&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
+
+<h2 align="center">Details:</h2>
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
 <span><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=MongoDB" alt="MongoDB"/></span>
@@ -38,17 +51,3 @@
 <a href="https://www.linkedin.com/in/junak-kibria/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maharab Kibria-blue?style=flat&logo=linkedin"></a>
 </p>
   
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kibria10&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Kibria10 :: Wakatime Stats" /></p>
-
-<p align="center">
-   <table>
-      <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
-     </tr>
-      <tr>
-       <td><img alt="Kibria10 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Kibria10&show_icons=true&theme=dark"> </td>
-       <td><img alt="Kibria10 :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibria10&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
-     </tr>
-   </table>
-</p>
