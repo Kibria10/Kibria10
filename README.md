@@ -33,17 +33,13 @@ As far as my credentials I'm currently a MERN stack developer, trying my best to
 <span><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&amp;logo=Visual%20Studio%20Code" alt="Visual Studio Code"/></span>
 <hr>
 <!--END_SECTION:learn-->
-
-<h2 align="center">You can catch me at</h2>
-
 <h3 align="center"> Connect with Me at </h3>
 
 <p align="center">
-<a href="mailto:devorein00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-devorein00@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Devorein%232924-blue?style=flat&logo=discord"></a>
-<a href="https://www.reddit.com/user/dev0rein"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-dev0rein-orange?style=flat&logo=reddit"></a>
-<a href="https://twitter.com/devorein"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-devorein-blue?style=flat&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/safwan-shaheer-4b759a1bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devorein-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:junakkibria56@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-junakkibria56@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-<BoJack/>#9606-blue?style=flat&logo=discord"></a>
+<a href="https://twitter.com/JunakKibria"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/junak-kibria/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maharab Kibria-blue?style=flat&logo=linkedin"></a>
 </p>
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Devorein :: Wakatime Stats" /></p>
@@ -55,8 +51,8 @@ As far as my credentials I'm currently a MERN stack developer, trying my best to
        <th>Language Contribution</th>
      </tr>
       <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark"> </td>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+       <td><img alt="Kibria10 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Kibria10&show_icons=true&theme=dark"> </td>
+       <td><img alt="Kibria10 :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiria10&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
      </tr>
    </table>
 </p>
