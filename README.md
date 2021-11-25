@@ -1,4 +1,4 @@
-### Hi, This is <a href="https:kibria10.github.io/">Maharab Kibria</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, This is <a href="https://kibria10.github.io/portfolio/">Maharab Kibria</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <p><em>Currently working as a DevOPS Intern at <a href="https://shurjomukhi.com.bd/">ShurjoMukhi Limited</a>. Completed my major in Computer Science (October'21) from <a href="https://www.bracu.ac.bd/">BRAC University</a>.</br>
