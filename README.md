@@ -1,7 +1,7 @@
 ### Hello, This is Maharab Kibria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<p><em>Currently working as a DevoPS Intern at ShurjoMukhi Limited. Completed my undergraduate from <a href="https://www.bracu.ac.bd/">BRAC University</a>, and majored in Computer Science.</br>
+<p><em>Currently working as a DevOPS Intern at <a href="https://shurjomukhi.com.bd/">ShurjoMukhi Limited</a>. Completed my undergraduate from <a href="https://www.bracu.ac.bd/">BRAC University</a>, and majored in Computer Science.</br>
 </em></p>
 <p align="center">
    <table>
