@@ -36,61 +36,6 @@ As far as my credentials I'm currently a MERN stack developer, trying my best to
 
 <h2 align="center">You can catch me at</h2>
 
-<p align="center">
-  <a href="https://stackoverflow.com/users/9745104/devorein?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Devorein's Stack Overflow Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://www.codewars.com/users/Devorein">
-    <img src="https://camo.githubusercontent.com/c6341567c3ede1b4ee0935509a378c482153026f/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" alt="Devorein's Codewars Profile" height="30" width="30">
-  </a>
-
-  <a href="https://dev.to/devorein" style="display: inline;">
-    <img src="https://lh3.googleusercontent.com/mmiuKzIq5YPFyjrfFsiNqeGuJY-Rp6wVvE8kus6vuunOnqInN16GTCCUX1937vEbKw" alt="Devorein's DEV Profile" height="30" width="30">
-  </a>
-   
-   <a href="https://devorein.hashnode.dev/">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compress" alt="Devorein's Hashnode Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://medium.com/@devorein">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Devorein's Medium Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://stackshare.io/devorein">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Devorein's StackShare Profile" height="30" width="30">
-  </a>
-  <a href="https://codesandbox.io/u/Devorein">
-    <img src="https://www.saashub.com/images/app/service_logos/9/ae995212f366/large.png?1528180811" alt="Devorein's CodeSandbox Profile" height="30" width="30">
-  </a> 
-   <a href="https://codepen.io/devorein">
-    <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="Devorein's Codepen Profile" height="30" width="30">
-  </a>
-  <a href="https://replit.com/@Devorein">
-    <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Devorein's Repl.it Profile" height="30" width="30">
-  </a>
-  <a href="https://www.youtube.com/channel/UCVRH1lqDD2m9W8H3KmcY0ow">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Devorein's YouTube Channel" height="30" width="30">
-  </a>
-  <a href="https://www.producthunt.com/@devorein">
-    <img src="https://www.vectorlogo.zone/logos/producthunt/producthunt-icon.svg" alt="Devorein's Producthunt Profile" height="30" width="30">
-  </a>
-  <a href="https://wakatime.com/@devorein">
-    <img src="https://raw.githubusercontent.com/uiwjs/file-icons/e384633d31ef07cceee07346fbada0aade402e46/icon/wakatime.svg" alt="Devorein's Wakatime Profile" height="30" width="30">
-  </a>
-  <a href="https://app.daily.dev/devorein">
-    <img src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png" alt="Devorein's Wakatime Profile" height="30" width="30">
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devorein's Codewars badge">
-</div>
-
-<div align="center">
-   <img src="https://stackoverflow.com/users/flair/9745104.png?theme=dark" alt="Devorein's Stackoverflow Badge"/>
-</div>
-
 <h3 align="center"> Connect with Me at </h3>
 
 <p align="center">
