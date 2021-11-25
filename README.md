@@ -6,15 +6,12 @@
 
 As far as my credentials I'm currently a MERN stack developer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
 
-- 🔭 I’m currently working on ... [Notion Renderer](https://github.com/Devorein/notion-renderer)
-- 🌱 I’m currently learning ... Redis, Docker, Kubernetes, Go and TypeScript from top to bottom without any gaps
-
 <h2 align="center">Detail of my current knowledge</h2>
 
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
 <span><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=MongoDB" alt="MongoDB"/></span>
-<span><img src="https://img.shields.io/badge/-Postgresql-black?style=flat-square&amp;logo=Postgresql" alt="Postgresql"/></span>
+<span><img src="https://img.shields.io/badge/-Mysql-black?style=flat-square&amp;logo=Mysql" alt="Mysql"/></span>
 <span><img src="https://img.shields.io/badge/-Redis-black?style=flat-square&amp;logo=Redis" alt="Redis"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
