@@ -47,7 +47,7 @@
 
 <p align="center">
 <a href="mailto:junakkibria56@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-junakkibria56@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://discord.com/"><img alt="Discord" src="https://img.shields.io/badge/Discord-<BoJack/>%239606-blue?style=flat&logo=discord"></a>
+<a href="https://discord.com/"><img alt="Discord" src="https://img.shields.io/badge/Discord-<BoJack/>%239606-red?style=flat&logo=discord"></a>
 <a href="https://twitter.com/JunakKibria"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Maharab Kibria-blue?style=flat&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/junak-kibria/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maharab Kibria-blue?style=flat&logo=linkedin"></a>
 </p>
