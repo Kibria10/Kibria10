@@ -26,33 +26,9 @@ As far as my credentials I'm currently a MERN stack developer, trying my best to
 <span><img src="https://img.shields.io/badge/-Sass-black?style=flat-square&amp;logo=Sass" alt="Sass"/></span>
 <span><img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&amp;logo=Typescript" alt="Typescript"/></span>
 <hr>
-<h3><img height="20px" src="https://img.shields.io/badge/Library-505558"/></h3>
-<span><img src="https://img.shields.io/badge/-Axios-black?style=flat-square&amp;logo=Axios" alt="Axios"/></span>
-<span><img src="https://img.shields.io/badge/-Babel-black?style=flat-square&amp;logo=Babel" alt="Babel"/></span>
-<span><img src="https://img.shields.io/badge/-Eslint-black?style=flat-square&amp;logo=Eslint" alt="Eslint"/></span>
-<span><img src="https://img.shields.io/badge/-Formik-black?style=flat-square&amp;logo=Formik" alt="Formik"/></span>
-<span><img src="https://img.shields.io/badge/-Mongoose-black?style=flat-square&amp;logo=Mongoose" alt="Mongoose"/></span>
-<span><img src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=React" alt="React"/></span>
-<span><img src="https://img.shields.io/badge/-React%20Query-black?style=flat-square&amp;logo=React%20Query" alt="React Query"/></span>
-<span><img src="https://img.shields.io/badge/-Redux-black?style=flat-square&amp;logo=Redux" alt="Redux"/></span>
-<span><img src="https://img.shields.io/badge/-Snowpack-black?style=flat-square&amp;logo=Snowpack" alt="Snowpack"/></span>
-<span><img src="https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&amp;logo=Tailwindcss" alt="Tailwindcss"/></span>
-<span><img src="https://img.shields.io/badge/-Typeorm-black?style=flat-square&amp;logo=Typeorm" alt="Typeorm"/></span>
-<span><img src="https://img.shields.io/badge/-Webpack-black?style=flat-square&amp;logo=Webpack" alt="Webpack"/></span>
-<hr>
-<h3><img height="20px" src="https://img.shields.io/badge/Platforms-487088"/></h3>
-<span><img src="https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&amp;logo=DigitalOcean" alt="DigitalOcean"/></span>
-<span><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=Docker" alt="Docker"/></span>
-<span><img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&amp;logo=Firebase" alt="Firebase"/></span>
-<span><img src="https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&amp;logo=Github%20Actions" alt="Github Actions"/></span>
-<span><img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&amp;logo=Heroku" alt="Heroku"/></span>
-<span><img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&amp;logo=Netlify" alt="Netlify"/></span>
-<span><img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&amp;logo=Vercel" alt="Vercel"/></span>
-<hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Tools-6c598f"/></h3>
-<span><img src="https://img.shields.io/badge/-Figma-black?style=flat-square&amp;logo=Figma" alt="Figma"/></span>
-<span><img src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=Git" alt="Git"/></span>
-<span><img src="https://img.shields.io/badge/-Notion-black?style=flat-square&amp;logo=Notion" alt="Notion"/></span>
+<span><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=Docker" alt="Docker"/></span>
+<span><img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&amp;logo=Kubernetes" alt="Kubernetes"/></span>
 <span><img src="https://img.shields.io/badge/-Postman-black?style=flat-square&amp;logo=Postman" alt="Postman"/></span>
 <span><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&amp;logo=Visual%20Studio%20Code" alt="Visual Studio Code"/></span>
 <hr>
