@@ -11,7 +11,7 @@
        <th>Language Contribution</th>
       </tr>
       <tr>
-       <td><img alt="Kibria10 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Kibria10&show_icons=true&theme=dark"> </td>
+       <td><img alt="Kibria10 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Kibria10&show_icons=true&theme=dracula"> </td>
        <td><img alt="Kibria10 :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibria10&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
       </tr>
    </table>
