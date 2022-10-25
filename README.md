@@ -13,8 +13,8 @@ I completed my undergraduation in Computer Science (September'2021) from <a href
        <th>Language Contribution</th>
       </tr>
       <tr>
-       <td><img alt="Kibria10 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Kibria10&show_icons=true&theme=dracula"> </td>
-       <td><img alt="Kibria10 :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibria10&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+       <td><img alt="Kibria10 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Kibria10&&count_private=true&show_icons=true&theme=jolly"> </td>
+       <td><img alt="Kibria10 :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibria10&count_private=true&langs_count=10&theme=jolly&layout=compact&hide=jupyter%20notebook,html,css,blade,scss,less"> </td>
       </tr>
    </table>
 </p>
