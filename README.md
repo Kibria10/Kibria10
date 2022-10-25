@@ -1,7 +1,9 @@
 ### Hi, This is <a href="https://kibria10.github.io/portfolio/">Maharab Kibria</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<p><em>I am highly self-driven and passionate about programming. Currently I am an associate software developer at <a href="https://shurjopay.com.bd/">ShurjoPay</a>. I Completed my major in Computer Science (October'2021) from <a href="https://www.bracu.ac.bd/">BRAC University</a>.</br>
+<p><em>I am highly self-driven and passionate about programming. Currently, I am an associate product engineer at <a href="https://www.sonaliintellect.com/">Sonali Intellect</a>. Before that, I was an associate software developer at <a href="https://shurjopay.com.bd/">ShurjoPay</a> (November 2021 ~ October 2022). 
+
+I completed my undergraduation in Computer Science (September'2021) from <a href="https://www.bracu.ac.bd/">BRAC University</a> with a research interest in deep learning, system architecture & cyber-security.</br>
 </em></p>
 
 <p align="center">
@@ -25,22 +27,24 @@
 <span><img src="https://img.shields.io/badge/-Redis-black?style=flat-square&amp;logo=Redis" alt="Redis"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
+<span><img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&amp;logo=Laravel" alt="Laravel"/></span>
 <span><img src="https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&amp;logo=Spring_Boot" alt="Spring_Boot"/></span>
 <span><img src="https://img.shields.io/badge/-Express-black?style=flat-square&amp;logo=Express" alt="Express"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
 <span><img src="https://img.shields.io/badge/-Bash-black?style=flat-square&amp;logo=Bash" alt="Bash"/></span>
-<span><img src="https://img.shields.io/badge/-Java-black?style=flat-square&amp;logo=Java" alt="JAVA"/></span>
-<span><img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python" alt="Python"/></span>
+<span><img src="https://img.shields.io/badge/-Java-black?style=flat-square&amp;logo=JAVA" alt="JAVA"/></span>
 <span><img src="https://img.shields.io/badge/-SQL-black?style=flat-square&amp;logo=SQL" alt="SQL"/></span>
-<span><img src="https://img.shields.io/badge/-Sass-black?style=flat-square&amp;logo=Sass" alt="Sass"/></span>
 <span><img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&amp;logo=Typescript" alt="Typescript"/></span>
 <span><img src="https://img.shields.io/badge/-Php-black?style=flat-square&amp;logo=PHP" alt="PHP"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Tools-6c598f"/></h3>
+<span><img src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=Git" alt="Git"/></span>
 <span><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=Docker" alt="Docker"/></span>
 <span><img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&amp;logo=Kubernetes" alt="Kubernetes"/></span>
 <span><img src="https://img.shields.io/badge/-Postman-black?style=flat-square&amp;logo=Postman" alt="Postman"/></span>
+<span><img src="https://img.shields.io/badge/-Jira-black?style=flat-square&amp;logo=Jira" alt="Jira"/></span>
+<span><img src="https://img.shields.io/badge/-Clickup-black?style=flat-square&amp;logo=Clickup" alt="Clickup"/></span>
 <span><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&amp;logo=Visual%20Studio%20Code" alt="Visual Studio Code"/></span>
 <hr>
 <!--END_SECTION:learn-->
