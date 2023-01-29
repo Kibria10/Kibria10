@@ -61,4 +61,4 @@ I completed my undergraduation in Computer Science (September'2021) from <a href
   <img src="https://img.icons8.com/color/96/000000/gitlab.png" width="50" height="50" alt="GitLab" style="margin-right: 20px;">
   <div>
     <h2 style="margin: 0;">GitLab</h2>
-    <p><b>As of October'22, I am no longer actively contributing on <i>Github</i> but continuously contributing to <i>Gitlab</i>, you can find my recent work on my<a href="https://gitlab.sonaliintellect.com/maharab.kibria">GitLab Enterprise Profile</a><b></p>
+    <p><b>As of October'22, I am no longer actively contributing to <i>Github</i> but continuously contributing to <i>Gitlab</i>, you can find my recent work on my <a href="https://gitlab.sonaliintellect.com/maharab.kibria">GitLab Enterprise Profile</a><b></p>
