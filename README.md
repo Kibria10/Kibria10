@@ -56,4 +56,9 @@ I completed my undergraduation in Computer Science (September'2021) from <a href
 <a href="https://twitter.com/JunakKibria"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Maharab Kibria-blue?style=flat&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/junak-kibria/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maharab Kibria-blue?style=flat&logo=linkedin"></a>
 </p>
-  
+
+   <div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/96/000000/gitlab.png" width="50" height="50" alt="GitLab" style="margin-right: 20px;">
+  <div>
+    <h2 style="margin: 0;">GitLab</h2>
+    <p><b>As of October'22, I am no longer actively contributing on <i>Github</i> but continuously contributing to <i>Gitlab</i>, you can find my recent work on my<a href="https://gitlab.sonaliintellect.com/maharab.kibria">GitLab Enterprise Profile</a><b></p>
