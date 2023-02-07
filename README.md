@@ -1,10 +1,24 @@
-### Hi, This is <a href="https://kibria10.github.io/portfolio/">Maharab Kibria</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<span style="font-family:serif;">
+
+   🖋️ Hi there, I'm [Maharab Kibria](https://kibria10.github.io/portfolio/)
 
 
-<p><em>I am highly self-driven and passionate about programming. Currently, I am an associate product engineer at <a href="https://www.sonaliintellect.com/">Sonali Intellect</a>. Before that, I was an associate software developer at <a href="https://shurjopay.com.bd/">ShurjoPay</a> (November 2021 ~ October 2022). 
+   💻 Self-driven and obsessed about programming 
 
-I completed my undergraduation in Computer Science (September'2021) from <a href="https://www.bracu.ac.bd/">BRAC University</a> with a research interest in deep learning, system architecture & cyber-security.</br>
-</em></p>
+
+   💼 Currently, an associate product engineer at [Sonali Intellect Limited](https://www.sonaliintellect.com/)
+
+
+   👨‍💻 Previously, an associate software developer at [ShurjoPay](https://shurjopay.com.bd/) (November 2021 ~ October 2022)
+
+
+   🎓 Completed Computer Science undergrad from [BRAC University](https://www.bracu.ac.bd/) (Sep 2021) 
+
+
+   🤖🔒 Research interest in deep learning, system architecture & cyber-security 
+
+</span>
+
 
 <p align="center">
    <table>
